@@ -1,0 +1,1 @@
+El numero de palabras para el fichero quijote_s05.txt es: 190475
